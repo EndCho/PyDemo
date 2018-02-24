@@ -25,4 +25,4 @@ print("--------function 1 --------")
 def f():
     print("ok")
 
-f()
+f() #调用一定记得加括号
