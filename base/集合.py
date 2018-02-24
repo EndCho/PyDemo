@@ -26,3 +26,5 @@ print(a ^ b)
 #父集 超集
 print(a.issubset(b)) #a>b
 print(a.issubset(b)) #子集 a<b
+
+
