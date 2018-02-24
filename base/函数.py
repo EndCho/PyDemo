@@ -12,3 +12,10 @@ def function1(log_text):
 
 print("--------function 1 --------")
 function1()
+
+#函数 != function()
+#计算机函数 == subroutine 子程序,procedures 过程
+#作用：
+    # 1.减少重复代码
+    # 2.方便修改,更易扩展
+    # 3.保持代码一致性
