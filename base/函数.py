@@ -11,7 +11,7 @@ def function1(log_text):
 
 
 print("--------function 1 --------")
-function1()
+#function1()
 
 #函数 != function()
 #计算机函数 == subroutine 子程序,procedures 过程
