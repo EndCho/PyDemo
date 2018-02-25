@@ -26,3 +26,10 @@ def f():
     print("ok")
 
 f() #调用一定记得加括号
+
+
+import time
+time_format = "%Y-%m-%d %X"
+time_current = time.strftime(time_format)
+
+print(time_current)
